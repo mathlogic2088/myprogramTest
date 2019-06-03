@@ -1,2 +1,0 @@
-# myprogramTest
-测试
